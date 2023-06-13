@@ -1,16 +1,16 @@
 module.exports = {
   top: [
     {
-      text: 'About',
+      text: 'About Me',
       url: '/about/'
     },
     {
-      text: 'Get started',
-      url: '/get-started/'
+      text: 'What I Do',
+      url: '/what-i-do/'
     },
     {
-      text: 'Built with',
-      url: '/built-with/'
+      text: 'Projects',
+      url: '/projects/'
     },
     {
       text: 'Blog',
@@ -18,13 +18,13 @@ module.exports = {
     }
   ],
   bottom: [
-    {
-      text: 'Imprint',
-      url: '/imprint/'
-    },
-    {
-      text: 'Privacy',
-      url: '/privacy/'
-    }
+    // {
+    //   text: 'Imprint',
+    //   url: '/imprint/'
+    // },
+    // {
+    //   text: 'Privacy',
+    //   url: '/privacy/'
+    // }
   ]
 };
