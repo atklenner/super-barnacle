@@ -7,9 +7,9 @@
 body {
   color: var(--color-dark);
   background: var(--color-light);
-  font-size: var(--size-step-1);
+  font-size: var(--size-step-0);
   font-family: var(--font-base);
-  line-height: 1.4;
+  line-height: 1.6;
   letter-spacing: var(--tracking);
 }
 
@@ -17,28 +17,28 @@ body {
 h1,
 h2,
 h3 {
-  line-height: 1;
-  letter-spacing: var(--tracking-s);
+  line-height: 1.1;
+  /* letter-spacing: var(--tracking-s); */
   font-family: var(--font-display);
 }
 
 h1 {
-  font-size: var(--size-step-5);
-}
-
-h2 {
   font-size: var(--size-step-4);
 }
 
-h3 {
+h2 {
   font-size: var(--size-step-3);
+}
+
+h3 {
+  font-size: var(--size-step-2);
 }
 
 /* Set line lengths */
 p,
 li,
 blockquote:not([class]) {
-  max-inline-size: 50ch;
+  max-inline-size: 60ch;
 }
 
 h1,
