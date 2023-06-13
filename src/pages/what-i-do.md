@@ -1,13 +1,8 @@
 ---
-title: Get started
-permalink: /get-started/index.html
-description: Websites built with this starter
+title: What I Do
+permalink: /what-i-do/index.html
+description: How I do my whole thing
 layout: page
-preloads:
-  href: '/assets/fonts/robotomono/robotomono-variablefont_wght-webfont.woff2'
-  as: 'font'
-  type: 'font/woff2'
-  crossorigin: true
 ---
 
 - **Important:** edit meta data in `src/_data/meta.js`, it's being used all over the template.
