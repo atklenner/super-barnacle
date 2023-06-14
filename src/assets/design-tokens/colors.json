@@ -4,27 +4,44 @@
   "items": [
     {
       "name": "Text Light",
-      "value": "#282828"
+      "value": "#38352d"
     },
     {
       "name": "Alt Text Light",
-      "value": "#ebebeb"
+      "value": "#e6e4dc"
     },
     {
       "name": "BG Light",
-      "value": "#ebebeb"
+      "value": "#e6e4dc"
     },
     {
       "name": "Alt BG Light",
-      "value": "#282828"
+      "value": "#38352d"
     },
     {
       "name": "Accent 1 Light",
-      "value": "#fab005"
+      "value": "#c92a2a",
+      "op-name": "red-9"
     },
     {
       "name": "Accent 2 Light",
-      "value": "#283a94"
+      "value": "#1864ab",
+      "op-name": "blue-9"
+    },
+    {
+      "name": "Accent 3 Light", 
+      "value": "#d9480f",
+      "op-name": "orange-9"
+    },
+    {
+      "name": "Accent 4 Light",
+      "value": "#e67700",
+      "op-name": "yellow-9"
+    },
+    {
+      "name": "Accent 5 Light",
+      "value": "#862e9c",
+      "op-name": "purple-9"
     },
     {
       "name": "Text Dark",

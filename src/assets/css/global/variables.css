@@ -15,6 +15,9 @@
   --alt-bg-color: var(--color-alt-bg-light);
   --accent-1: var(--color-accent-1-light);
   --accent-2: var(--color-accent-2-light);
+  --accent-3: var(--color-accent-3-light);
+  --accent-4: var(--color-accent-4-light);
+  --accent-5: var(--color-accent-5-light);
 }
 
 /* @media (prefers-color-scheme: dark) {
@@ -30,4 +33,16 @@
 
 .spot-color-accent-2 {
   --spot-color: var(--accent-2);
+}
+
+.spot-color-accent-3 {
+  --spot-color: var(--accent-3);
+}
+
+.spot-color-accent-4 {
+  --spot-color: var(--accent-4);
+}
+
+.spot-color-accent-5 {
+  --spot-color: var(--accent-5);
 }
