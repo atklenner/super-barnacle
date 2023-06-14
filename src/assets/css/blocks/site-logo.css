@@ -7,4 +7,6 @@
   letter-spacing: var(--tracking-s);
   padding: var(--space-xs) 0;
   font-size: var(--size-step-1);
+
+  font-family: var(--font-display);
 }
