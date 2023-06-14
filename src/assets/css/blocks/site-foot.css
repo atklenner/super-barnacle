@@ -1,7 +1,7 @@
 .site-foot {
   padding: var(--space-s-m);
-  background: var(--color-dark);
-  color: var(--color-light);
+  background: var(--alt-bg-color);
+  color: var(--alt-text-color);
 }
 
 .site-foot__inner {

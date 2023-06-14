@@ -3,32 +3,36 @@
   "description": "Hex color codes that can be shared, cross-platform. They can be converted at point of usage, such as HSL for web or CMYK for print.",
   "items": [
     {
-      "name": "Dark",
-      "value": "#404040"
+      "name": "Text Light",
+      "value": "#282828"
     },
     {
-      "name": "Light",
-      "value": "#F3F3F3"
+      "name": "Alt Text Light",
+      "value": "#ebebeb"
     },
     {
-      "name": "Light Glare",
-      "value": "#FFFFFF"
+      "name": "BG Light",
+      "value": "#ebebeb"
     },
     {
-      "name": "Primary",
-      "value": "#dd4462"
+      "name": "Alt BG Light",
+      "value": "#282828"
     },
     {
-      "name": "Primary Glare",
-      "value": "#F4D0DF"
+      "name": "Accent 1 Light",
+      "value": "#fab005"
     },
     {
-      "name": "Secondary",
-      "value": "#0369A1"
+      "name": "Accent 2 Light",
+      "value": "#283a94"
     },
     {
-      "name": "Secondary Glare",
-      "value": "#D8E2F4"
+      "name": "Text Dark",
+      "value": "#ebebeb"
+    },
+    {
+      "name": "BG Dark",
+      "value": "#282828"
     }
   ]
 }

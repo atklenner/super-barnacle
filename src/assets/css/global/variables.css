@@ -8,4 +8,26 @@
   --transition-bounce: 500ms cubic-bezier(0.5, 0.05, 0.2, 1.5);
   --tracking: -0.05ch;
   --tracking-s: -0.075ch;
+
+  --text-color: var(--color-text-light);
+  --bg-color: var(--color-bg-light);
+  --alt-text-color: var(--color-alt-text-light);
+  --alt-bg-color: var(--color-alt-bg-light);
+  --accent-1: var(--color-accent-1-light);
+  --accent-2: var(--color-accent-2-light);
+}
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --text-color: var(--color-text-dark);
+    --bg-color: var(--color-bg-dark);
+  }
+} */
+
+.spot-color-accent-1 {
+  --spot-color: var(--accent-1);
+}
+
+.spot-color-accent-2 {
+  --spot-color: var(--accent-2);
 }
