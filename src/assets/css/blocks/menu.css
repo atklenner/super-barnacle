@@ -121,5 +121,5 @@ nav.navbar ul {
   gap: var(--space-s);
   list-style: none;
   margin: 0;
-  padding: var(--space-s);
+  padding: 0;
 }
