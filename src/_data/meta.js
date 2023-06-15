@@ -10,14 +10,14 @@ module.exports = {
   author: 'Andrew Klenner', // i.e. Lene Saile - author's name. Must be set.
   authorEmail: 'atklenner@gmail.com', // i.e. hola@lenesaile.com - email of the author
   authorWebsite: '', // i.e. https.://www.lenesaile.com - the personal site of the author
-  themeColor: '#DD4462', //  Manifest: defines the default theme color for the application
-  themeBgColor: '#F3F3F3', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
+  themeColor: '#38352d', //  Manifest: defines the default theme color for the application
+  themeBgColor: '#e6e4dc', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
   meta_data: {
     opengraph_default: '/assets/images/opengraph-default.jpg', // fallback/default meta image
     opengraph_default_alt:
       'Visible content: Eleventy starter based on workflow for Cube CSS, Every Layout, Design Tokens and Tailwind for uitility, based on the concepts explained in buildexcellentwebsit.es ', // alt text for default meta image
     twitterSite: '@andrewklenner', // i.e. @site - twitter profile of the site
-    twitterCreator: '', // i.e. @author -  twitter profile of the site
+    twitterCreator: '@andrewklenner', // i.e. @author -  twitter profile of the site
     mastodonProfile: '' // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
   },
   blog: {
